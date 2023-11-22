@@ -21,7 +21,8 @@ I am also a motivated and curious learner, pursuing two degrees in computer soft
   
 ### ⚒️   My projects:
 [50projects50daysJavaScript](https://camiloprog-50projects50days.netlify.app/)
-I was doing for 50 days a project for each day using different technologies and new methods of JavaScript, I also used HTML and CSS
+I was doing for 50 days a project for each day using different technologies and new methods of JavaScript, I also used HTML and CSS.
+
 [TodoAPP](https://camiloprogtodo.netlify.app/)
 Schedule your tasks of the day or week, it will still appear when you close and open the website because, this app uses localStorage.
 
