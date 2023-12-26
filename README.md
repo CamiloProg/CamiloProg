@@ -20,6 +20,10 @@ I am also a motivated and curious learner, pursuing two degrees in computer soft
 ***
   
 ### ⚒️   My projects:
+
+[Brewer's CookBook](https://c15-09-t-node-react.vercel.app/)
+This is a full project, with backend and frontend, where I made with a group of developers, where you can see recipes of beers that people had uploaded or you can upload someone that you have created!
+
 [50projects50daysJavaScript](https://camiloprog-50projects50days.netlify.app/)
 I was doing for 50 days a project for each day using different technologies and new methods of JavaScript, I also used HTML and CSS.
 
