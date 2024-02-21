@@ -4,7 +4,8 @@
 Passionate about technology, web development, and creating virtual solutions for companies, I stand out as a 
 developer with a great ability to generate the best possible code. My commitment lies in ensuring the achievement of 
 objectives and the complete satisfaction of the client with the final product.
- My experience as a web developer includes accompanying companies in the transformation of their business models 
+
+My experience as a web developer includes accompanying companies in the transformation of their business models 
 through virtual technology transformations. Using different tools such as ReactJS, JavaScript, HTML, CSS, and 
 Tailwind, in which I have specialized to achieve the best performance in creating web pages. With knowledge in Agile 
 Methodologies like Scrum, my passion for facing challenges and my commitment to continuous learning strengthen my 
