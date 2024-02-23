@@ -30,6 +30,9 @@ ability to adapt to diverse situations.
 [Brewer's CookBook](https://c15-09-t-node-react.vercel.app/)
 This is a full project, with backend and frontend, where I made with a group of developers, where you can see recipes of beers that people had uploaded or you can upload someone that you have created!
 
+[Ticket Bus](https://ticket-bus.netlify.app/)
+Planned and developed a website for bus companies to easily create their own application for ticket sales and route assignments. Employed technologies such as ReactJS, React Query, JavaScript, HTML, CSS, and Tailwind.
+
 [50projects50daysJavaScript](https://camiloprog-50projects50days.netlify.app/)
 I was doing for 50 days a project for each day using different technologies and new methods of JavaScript, I also used HTML and CSS.
 
