@@ -39,7 +39,7 @@ I was doing for 50 days a project for each day using different technologies and 
 [TodoAPP](https://camiloprogtodo.netlify.app/)
 Schedule your tasks of the day or week, it will still appear when you close and open the website because, this app uses localStorage.
 
-[SearchMovies](https://camiloprogsearchmovies.netlify.app/)
+[SearchMovies](https://movieapp-bemaster.netlify.app/)
 Go and try to search your favorite movie, also, you can organize them by alphabetical order.
 
 Comming soon...
