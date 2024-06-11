@@ -41,7 +41,9 @@ Schedule your tasks of the day or week, it will still appear when you close and 
 
 [SearchMovies](https://movieapp-bemaster.netlify.app/)
 Go and try to search your favorite movie, also, you can organize them by alphabetical order.
+
 User: test@test.com
+
 Password: testtest
 
 Comming soon...
